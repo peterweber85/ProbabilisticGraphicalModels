@@ -6,7 +6,7 @@ Here I upload the computational project I have completed for this course. The co
 * Image Denoising in Stan
 
 #### Course Content
-* Introduction tp PGM
+* Introduction to PGMs
 * Markov networks
 * Bayesian networks
 * Template models
